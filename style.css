@@ -1,0 +1,61 @@
+*{
+  padding: 0%;
+  margin: 0%;  
+}
+.image{
+    height: 500px;
+    width: 500px;
+    
+}
+.button{
+  margin:10px 12px;
+  padding: 10PX 12px;
+  font-weight:bold ;
+  border-radius: 15px;
+  background-color: blueviolet;
+  }
+.nav,ul,li{
+  display: flex;
+  margin: 3%;
+}
+.parag{
+  display: flex;
+}
+.form{
+  width:500px ;
+  height:300px ;
+  
+}
+.img4{
+  height: 400px;
+  width: 350px;
+}
+.img2{
+  height: 200px;
+  width: 350px;
+  }
+.img1{
+  height: 200px;
+  width: 350px;
+}
+.form1{
+  display: flex;
+}
+.name1{
+  display: flex;
+  margin: 2%;
+  }
+  .fom{
+    display: flex;
+    background-color: black;
+    color: aqua;
+   margin: 3%;
+   
+   
+    
+}
+
+
+
+
+
